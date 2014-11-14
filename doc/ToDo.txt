@@ -1,0 +1,7 @@
+﻿local system--> work
+network system --> dowsn't work
+
+
+
+پیش نیاز
+SqlExpress2008
